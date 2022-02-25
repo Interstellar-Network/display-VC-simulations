@@ -1,3 +1,3 @@
 # display-VC-simulations
 
-simu.interstellar.gg site (temporary https://ideal-barnacle-244dd112.pages.github.io/)
+https://simu.interstellar.gg/ (working now) To Do update the previous link
